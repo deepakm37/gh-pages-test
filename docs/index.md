@@ -2,4 +2,4 @@
 layout: home
 ---
 
-This is a GitHub Pages site
+Welcome! This is a GitHub Pages test site.
